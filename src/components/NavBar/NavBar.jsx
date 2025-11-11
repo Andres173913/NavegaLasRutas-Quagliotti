@@ -6,7 +6,7 @@ function NavBar() {
     return (
         <nav className="navbar">
             <ul className="nav-links">
-                <li><NavLink to="/">Inicio</NavLink></li>
+                <li><NavLink to="/home">Inicio</NavLink></li>
                 <li><NavLink to="/about">About</NavLink></li>
                 <li><NavLink to="/services">Services</NavLink></li>
                 <li><NavLink to="/contact">Contact</NavLink></li>
