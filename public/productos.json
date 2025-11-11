@@ -1,0 +1,134 @@
+[
+    {
+        "id":1,
+        "name": "Carlinga Taza",
+        "category": "Optimist",
+        "element": "Nuestra carlinga de taza soporta mucha fuerza y tiene la base agujereada para alivianar y que tenga menor rozamiento.",
+        "price": 78,
+        "image1": "/img/optimist/carlinga_taza.jpg",
+        "image2": "/img/optimist/carlinga_taza2.jpg",
+        "stock": 10
+    },
+     {
+        "id":2,
+        "name": "Carlinga Pin",
+        "category": "Optimist",
+        "element": "Nuestra carlinga de pin presenta un menor rozamiento para los dias de poco viento.",
+        "price": 40,
+        "image1": "/img/optimist/carlinga_pin.jpg",
+        "image2": "/img/optimist/carlinga_pin2.jpg",
+        "image3": "/img/optimist/carlinga_pin3.jpg",
+        "stock": 10
+    },
+     {
+        "id":3,
+        "name": "Tapon Mastil",
+        "category": "Optimist",
+        "element": "Nuestra tapon de mastil esta hecho de un material que se autolubrica con el agua para menor rozamiento.",
+        "price": 30,
+        "image1": "/img/optimist/tapon_mastil.jpg",      
+        "image2": "/img/optimist/tapon_mastil2.jpg",
+        "stock": 10
+    },
+     {
+        "id":4,
+        "name": "Hembras timon",
+        "category": "Optimist",
+        "element": "Nuestra hembras de timon tiene un mayor espesor pero mismo peso que las originales para mayor resistencia.",
+        "price": 25,
+        "image1": "/img/optimist/hembras_timon.jpg",
+        "image2": "/img/optimist/hembras_timon2.jpg",
+        "stock": 10
+    },
+    {
+        "id":5,
+        "name": "Tuerca Carlinga",
+        "category": "Optimist",
+        "element": "Nuestra Tuerca fabricada 100% en bronce ofrece una mayor durabilidad y esta agujereada para pesar menos.",
+        "price": 15,
+        "image1": "/img/optimist/tuerca_carlinga.jpg",
+        "image2": "/img/optimist/tuerca_carlinga2.jpg",
+        "stock": 10
+    },
+    {
+        "id":6,
+        "name": "Base Radial ",
+        "category": "ILCA",
+        "element": "Base de mastil ILCA Radial de carbono.",
+        "price": 300,
+        "image1": "/img/ilca/base_ilca6.png",
+        "image2": "/img/ilca/base_ilca6_2.png",
+        "stock": 10
+    },
+    {
+        "id":7,
+        "name": "Trailer ILCA",
+        "category": "ILCA",
+        "element": "Trailer de baradero para embarcaciones ILCA hecho en aluminio.",
+        "price": 250,
+        "image1": "/img/ilca/trailer-ilca.jpg",
+        "image2": "/img/ilca/trailer-ilca2.jpg",
+        "image3": "/img/ilca/trailer-ilca3.jpg", 
+        "stock": 10
+    },
+    {
+        "id":8,
+        "name": "Moton chico Harken",
+        "category": "ILCA",
+        "element": "Este moton de acero inox es muy resistente.",
+        "price": 15,
+        "image1": "/img/ilca/moton_chico_harken.jpg",
+        "image2": "/img/ilca/moton_chico_harken2.png",
+        "stock": 10
+    },
+     {
+        "id":9,
+        "name": "Vang Harken",
+        "category": "ILCA",
+        "element": "El vang para ILCA Harken es ligero y resistente hecho en inox.",
+        "price": 225,
+        "image1": "/img/ilca/vang_ilca.jpg",
+        "image2": "/img/ilca/vang_ilca2.jpg",
+        "stock": 10
+    },
+    {
+        "id":10,
+        "name": "Orza 29er",
+        "category": "29er",
+        "element": "La orza de 29er es ligera y resistente hecha en fibra de vidrio.",
+        "price": 637,
+        "image1": "/img/29er/orza29.jpg",
+        "image2": "/img/29er/orza29_2.jpg",
+        "stock": 10
+    },
+    {
+        "id":11,
+        "name": "Timon 29er",
+        "category": "29er",
+        "element": "El timon de 29er es ligero y resistente hecho en fibra de vidrio.",
+        "price": 475,
+        "image1": "/img/29er/timon29.jpg",
+        "image2": "/img/29er/timon29_2.jpg",
+        "stock": 10
+    },
+    {
+        "id":12,
+        "name": "Juego de Mayo y foque 29er",
+        "category": "29er",
+        "element": "Este juego de mayo y foque de 29er es fabricado por neilpryde.",
+        "price": 1530,
+        "image1": "/img/29er/velas-29er.jpg",
+        "image2": "/img/29er/velas-29er-02.jpg", 
+        "stock": 10
+    },
+     {
+        "id":13,
+        "name": "Moton Harken 29mm",
+        "category": "29er",
+        "element": "El moton Harken de 29mm es ligero y resistente hecho de carbono.",
+        "price": 25,
+        "image1": "/img/29er/harken29.jpg",
+        "image2": "/img/29er/harken29_2.jpg",
+        "stock": 10
+    }
+]

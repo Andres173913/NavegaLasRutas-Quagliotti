@@ -1,0 +1,30 @@
+.navbar {
+  background-image: url("../../assets/img/bgindex.jpeg");
+  overflow: hidden;
+  height: 70vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.nav-button-link {
+  text-decoration: none;
+}
+
+.nav-button {
+  background-color: transparent;
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav-button:hover {
+  opacity: 0.8;
+}
+
+.nav.ul.li{
+  list-style: none;
+}
