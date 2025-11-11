@@ -11,7 +11,7 @@ function App() {
     <>
       <BrowserRouter>
         <Routes>
-          <Route path="/home" element={<Container />} />
+          <Route path="/" element={<Container />} />
           <Route path="/product-detail/:productId" element={<ProductDetail />} />
           <Route path="/cart-detail" element={<CartDetail />} />
         </Routes>
